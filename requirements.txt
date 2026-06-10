@@ -1,0 +1,4 @@
+jlclient @ git+https://github.com/jarvislabsai/jlclient.git
+requests>=2.31.0
+python-dotenv>=1.0.0
+slack_sdk>=3.27.0
